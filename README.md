@@ -1,5 +1,5 @@
 
-# Events Manager App
+# Eventify app
 
 A Flutter application designed to streamline the creation and management of events for clubs and organizations. This app allows users to create, view, and manage events with features like date and time selection, capacity management, and event categorization.
 
